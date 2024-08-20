@@ -1,6 +1,6 @@
 # TODO: Update with exact module version
-numpy
-torch>=1.7
+numpy<2
+torch==1.11
 opencv_python
 loguru
 tqdm
