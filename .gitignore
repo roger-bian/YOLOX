@@ -226,3 +226,13 @@ events.out.tfevents*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+*.mp4
+*.MP4
+*.jpg
+*.png
+
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
